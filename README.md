@@ -2,7 +2,7 @@
 A program that lets you ramap functions of your keyboard keys with a smiple gui. Program need a file path to store the rempas you can set it from the "Options" drop down menu.
 Ooher option let's you chnage themes of the gui and adjust the opacati.
 
-![Showcase](program.png)
+![Showcase](Program.png)
 
 ## Requirements
 
