@@ -1,14 +1,16 @@
-#Keyboard keys remaper
-A program that lets you ramap functions of your keyboard keys with a smiple gui. Program need a file path to store the rempas you can set it from the "Options" drop down menu.
-Ooher option let's you chnage themes of the gui and adjust the opacati.
+# Keyboard Keys Remapper
+
+A program that lets you remap your keyboard keys using a simple GUI. The program requires a file path to store the remaps, which can be set from the **Options** drop-down menu.
+
+Another option lets you change the GUI theme and adjust the window opacity.
 
 ![Showcase](Program.png)
 
 ## Requirements
 
-- Python 3.10+
-- keyboard
-- customtkinter
+* Python 3.10+
+* keyboard
+* customtkinter
 
 ```bash
 pip install keyboard customtkinter
@@ -22,7 +24,8 @@ cd Keyboard-keys-remaps-
 python gui.py
 ```
 
-## Function buttons input for the program
+## Function keys input for the program
+
 
 | Key        | Input                   |
 |----------- |-------------------------|
